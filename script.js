@@ -25,7 +25,6 @@ class Square extends Rectangle
 	}
 }
 
-class Square extends Animal {}
 
 // Do not change the code below this line
 window.Rectangle = Rectangle;
